@@ -3,7 +3,7 @@ Ten Minute Plan for phage DNA parsing program:
 Nico Crudele
 
 The goal of this project is to be able to list the spacer sequences is a DNA strand, by parsing apart the repeats in a genome that contains a CRISPR array. 
- Where the CRISPR array is on the bacteria’s genome, the DNA sequence at this point follows a pattern, which is CRISPR, phage spacer, CRISPR, phage spacer, etc.
+Where the CRISPR array is on the bacteria’s genome, the DNA sequence at this point follows a pattern, which is CRISPR, phage spacer, CRISPR, phage spacer, etc.
 
 
 What it needs to do:
